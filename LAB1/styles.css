@@ -1,0 +1,27 @@
+.header{
+    text-align: center;
+    font-weight: bold;
+    color: rgb(239, 57, 57);
+    margin-left: 60px;
+}
+body{
+background-image:url('auto-mechanic-checking-car.jpg');
+background-repeat: no-repeat;
+background-position: left center;
+background-size: cover;
+height: 100%;
+font-family:Verdana, Geneva, Tahoma, sans-serif;
+color: rgb(255, 255, 255);
+}
+.Contact{
+    color: white;
+}
+
+table, th, td {
+    border:3px solid rgb(240, 21, 21);
+  }
+
+ th, td {
+    color: rgb(0, 0, 0);
+  text-align: center;
+  }
