@@ -25,3 +25,25 @@ table, th, td {
     color: rgb(0, 0, 0);
   text-align: center;
   }
+.container{
+    width: 100vh;
+    height: 100vh;
+}
+.booking{
+    background-color: rgb(49, 49, 49);
+    text-align: center;
+    margin: 0;
+    padding: 0%;
+    
+}
+.btn{
+    width: 101px;
+    color: red;
+    font-weight: bold;
+    border-radius: 7px;
+    background-color: black;
+    cursor: pointer;
+}
+.lbl{
+    padding-top:5px;
+}

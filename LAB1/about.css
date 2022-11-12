@@ -1,0 +1,19 @@
+.header{
+    text-align: center;
+    font-weight: bold;
+    color: rgb(239, 57, 57);
+    margin-left: 60px;
+}
+body{
+    background-image: url('auto-mechanic-checking-car.jpg');
+background-repeat: no-repeat;
+background-position: left center;
+background-size:contain;
+height: 100%;
+width: 100%;
+font-family:Verdana, Geneva, Tahoma, sans-serif;
+color: rgb(255, 255, 255);
+}
+.booking{
+    background-color: white;
+}
